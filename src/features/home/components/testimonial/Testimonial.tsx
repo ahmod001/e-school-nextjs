@@ -1,5 +1,5 @@
 import getUsers from "../../services/api/random-user";
-import Title from "./Title";
+import Title from "../shared/Title";
 import { User } from "../../services/api/type";
 import Carousel from "./carousel/Carousel";
 
